@@ -1,7 +1,5 @@
 # Wine Quality Classification with Logistic Regression and Regularization
 
-This notebook explores the use of logistic regression with L1 (Lasso) and L2 (Ridge) regularization techniques to classify wine quality based on physicochemical features.
-
 ## Objective
 
 To evaluate how regularization impacts model performance and feature importance when predicting whether a wine sample is of good or bad quality.
@@ -38,14 +36,6 @@ To evaluate how regularization impacts model performance and feature importance 
 5. **Feature Importance**
    - Visualized feature coefficients to understand which features were most influential
 
-## Dependencies
-
-- Python
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
 
 ## Results Summary
 
